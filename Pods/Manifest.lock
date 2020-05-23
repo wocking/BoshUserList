@@ -1,0 +1,96 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - libwebp (1.1.0):
+    - libwebp/demux (= 1.1.0)
+    - libwebp/mux (= 1.1.0)
+    - libwebp/webp (= 1.1.0)
+  - libwebp/demux (1.1.0):
+    - libwebp/webp
+  - libwebp/mux (1.1.0):
+    - libwebp/demux
+  - libwebp/webp (1.1.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIImagePickerController (6.13.1):
+    - PromiseKit/UIKit
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - Result (4.1.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SDWebImageWebPCoder (0.5.0):
+    - libwebp (~> 1.0)
+    - SDWebImage/Core (~> 5.5)
+  - SVProgressHUD (2.2.5)
+  - SwifterSwift (5.1.0):
+    - SwifterSwift/AppKit (= 5.1.0)
+    - SwifterSwift/CoreGraphics (= 5.1.0)
+    - SwifterSwift/CoreLocation (= 5.1.0)
+    - SwifterSwift/Dispatch (= 5.1.0)
+    - SwifterSwift/Foundation (= 5.1.0)
+    - SwifterSwift/MapKit (= 5.1.0)
+    - SwifterSwift/SceneKit (= 5.1.0)
+    - SwifterSwift/SpriteKit (= 5.1.0)
+    - SwifterSwift/SwiftStdlib (= 5.1.0)
+    - SwifterSwift/UIKit (= 5.1.0)
+  - SwifterSwift/AppKit (5.1.0)
+  - SwifterSwift/CoreGraphics (5.1.0)
+  - SwifterSwift/CoreLocation (5.1.0)
+  - SwifterSwift/Dispatch (5.1.0)
+  - SwifterSwift/Foundation (5.1.0)
+  - SwifterSwift/MapKit (5.1.0)
+  - SwifterSwift/SceneKit (5.1.0)
+  - SwifterSwift/SpriteKit (5.1.0)
+  - SwifterSwift/SwiftStdlib (5.1.0)
+  - SwifterSwift/UIKit (5.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Moya (~> 13.0)
+  - PromiseKit (~> 6.8)
+  - PromiseKit/UIImagePickerController
+  - SDWebImage (~> 5.0)
+  - SDWebImageWebPCoder
+  - SVProgressHUD
+  - SwifterSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - libwebp
+    - Moya
+    - PromiseKit
+    - Result
+    - SDWebImage
+    - SDWebImageWebPCoder
+    - SVProgressHUD
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  libwebp: 946cb3063cea9236285f7e9a8505d806d30e07f3
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SDWebImageWebPCoder: e7ae855f058e3dcae99696920b6a5d134e9dcddf
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterSwift: a9e8e144832638c2850b43da5feaf9598c6ad65b
+
+PODFILE CHECKSUM: de5929d0bee041669e515ea85e8d69ce279b54c9
+
+COCOAPODS: 1.8.4
